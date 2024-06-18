@@ -1,0 +1,87 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Q1. Amperometry is a technique used to measure _______________",
+      "answers": {
+        "a": "Current.",
+        "b": "Capacitance.",
+        "c": "Frequency.",
+        "d": "Resistance."
+      },
+	  "correctAnswer": "a"     
+    },
+	{
+      "question": "Q2. Amperometry is based on _____________ law of Faraday",
+      "answers": {
+        "a": "First and Second.",
+        "b": "Second.",
+        "c": "Third and fourth.",
+        "d": "Fourth."
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Q3. How does the current response in amperometry change with the concentration of the analyte?",
+      "answers": {
+        "a": "It exhibits a linear increase with the analyte concentration.",
+        "b": "It conforms to a logarithmic relationship with the analyte concentration.",
+        "c": "It shows a linear decrease with the analyte concentration.",
+        "d": "It remains constant regardless of the analyte concentration."
+      },
+      "correctAnswer": "b"
+    },
+	{
+      "question": "Q4. How does the current density relate to electrodeposition, in amperometry?",
+      "answers": {
+        "a": "Higher current density leads to faster electrodeposition.",
+        "b": "Lower current density accelerates electrodeposition.",
+        "c": "Current density does not affect the electrodeposition rate.",
+        "d": "None of the above."
+      },
+      "correctAnswer": "a"
+    },
+	{
+      "question": "Q5. Which of the following is a limitation of electrodeposition in amperometry?",
+      "answers": {
+        "a": "It can only be used with liquids.",
+        "b": "Incompatibility with metals.",
+        "c": "It may lead to uneven deposition or contamination.",
+        "d": "Necessity for advanced expertise."
+      },      
+      "correctAnswer": "c"
+    },	
+	{
+      "question": "Q6. How is amperometry utilized in the electrodeposition process for tungsten oxide thin film fabrication?",
+      "answers": {
+        "a": "It increases the deposition rate.",
+        "b": "It decreases the deposition rate.",
+        "c": "It controls the deposition rate and thickness of WO3 thin films.",
+        "d": "None of the above."
+      },     
+      "correctAnswer": "c"
+    },
+	
+	{
+      "question": "Q7. What type of graph is obtained in amperometry",
+      "answers": {
+        "a": "Resistance-Frequency graph.",
+        "b": "Current-Time graph.",
+        "c": "Temperature-Pressure graph.",
+        "d": "Voltage-Time graph."
+      },      
+      "correctAnswer": "b"
+    },
+	{
+      "question": "Q8. What are the advantages of using Indium Tin Oxide (ITO) as a working electrode in electrochemical applications?",
+      "answers": {
+        "a": "High transparency, electrical conductivity, and chemical stability.",
+        "b": "ITO is a dense and heavy material, making it ideal for stability in harsh chemical environments.",
+        "c": "The low electrical conductivity and poor chemical resistance of ITO make it unsuitable for working electrode applications.",
+        "d": "ITO is used as a thermal insulator due to its low thermal conductivity."
+      },      
+      "correctAnswer": "a"
+    }
+  ]
+
+}
