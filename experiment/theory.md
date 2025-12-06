@@ -11,6 +11,9 @@ thin film preparation can be explained by the given equation.</p>
 
 ![Figure1](images/theory.png)
 
+
+2WO<sub>4</sub><sup>2-</sup><sub>(aq)</sub>+4H<sub>2</sub>O<sub>2(aq)</sub>
+
 <p>The electrodeposition study was performed using a potentiostat, an electrochemical instrument
 capable of precisely controlling and measuring the current response to an applied potential. It
 facilitates chronoamperometric measurements by maintaining a constant potential between the
