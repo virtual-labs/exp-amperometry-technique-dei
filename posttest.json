@@ -1,0 +1,87 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Q1. Which of the following is a limitation of amperometry?",
+      "answers": {
+        "a": "It requires a complex setup.",
+        "b": "Inapplicability to gaseous samples.",
+        "c": "Exclusive suitability for biological samples.",
+        "d": "Susceptibility to interference from other substances."
+      },
+	  "correctAnswer": "d"     
+    },
+	{
+      "question": "Q2. Amperometry is particularly useful for studying _____________ reactions?",
+      "answers": {
+        "a": "Acid-base.",
+        "b": "Precipitation.",
+        "c": "Organic synthesis.",
+        "d": "Redox."
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "question": "Q3. Why is electrodeposition commonly used in amperometry?",
+      "answers": {
+        "a": "To deposit a substance for analysis.",
+        "b": "Voltage measurement.",
+        "c": "To increase resistance.",
+        "d": "To decrease the current density."
+      },
+      "correctAnswer": "a"
+    },
+	{
+      "question": "Q4. Which characteristic of tungsten trioxide (WO3) semiconductor renders it suitable for application as an anode electrode in oxidation reactions?",
+      "answers": {
+        "a": "Exceptional transparency and flexibility.",
+        "b": "High thermal conductivity and low electrical resistance.",
+        "c": "Superior chemical stability and electrical conductivity.",
+        "d": "None of the above."
+      },
+      "correctAnswer": "c"
+    },
+	{
+      "question": "Q5. What is illustrated by the current-time graph in amperometry?",
+      "answers": {
+        "a": "The applied potential throughout the experiment.",
+        "b": "The resistance changes in the experimental setup.",
+        "c": "The variations in temperature and pressure during the electrochemical reaction.",
+        "d": "The flow of current concerning time during the experiment."
+      },      
+      "correctAnswer": "d"
+    },	
+	{
+      "question": "Q6. Which types of electrodes are commonly used in amperometry?",
+      "answers": {
+        "a": "Anodes.",
+        "b": "Cathodes.",
+        "c": "Both of them.",
+        "d": "Neither of them."
+      },     
+      "correctAnswer": "c"
+    },
+	
+	{
+      "question": "Q7. How does the deposition time impact the resulting current-time graph in amperometry?",
+      "answers": {
+        "a": "Deposition time has no significant effect on the current-time graph.",
+        "b": "Longer deposition times lead to lower currents, suggesting decreased electrodeposition rates and thinner deposited layers.",
+        "c": "Longer deposition times generally lead to higher currents.",
+        "d": "Shorter deposition times result in higher currents due to rapid electrodeposition and enhanced material quality."
+      },      
+      "correctAnswer": "b"
+    },
+	{
+      "question": "Q8. Why is the amperometric method considered best for WO3 thin film fabrication compared to other electrodeposition methods?",
+      "answers": {
+        "a": "It ensures rapid growth of WO3 films, reducing fabrication time without compromising film quality.",
+        "b": "WO3 thin films prepared by amperometry exhibit unique optical properties.",
+        "c": "It allows precise control of the deposition process, leading to uniform and well-defined WO3 thin films.",
+        "d": "Other methods cannot measure current during deposition, resulting in poor quality and inconsistent WO3 films."
+      },      
+      "correctAnswer": "c"
+    }
+  ]
+
+}
